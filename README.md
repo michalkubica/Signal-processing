@@ -1,3 +1,4 @@
+# Signal processing
 A bunch of university projects made in Matlab/Octave environment to become familiar with the basic concepts of encoding, modulation and transmission.
 
 Number 1 "Simple transmission" is a simulation of sending an examplary signal (text, audio and image examples here) over a binary symmetric channel (BSC). The probability of error can be set and bit error rate (BER) is calculated after receiving the transmission.
